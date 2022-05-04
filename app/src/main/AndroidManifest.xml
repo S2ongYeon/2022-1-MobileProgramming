@@ -89,6 +89,9 @@
         <activity
             android:name=".ui.week10.Week10DynamicLayout"
             android:exported="true" />
+        <activity
+            android:name=".ui.week10.Week10TransitionActivity"
+            android:exported="true" />
     </application>
 
 </manifest>
