@@ -86,7 +86,9 @@
         <activity
             android:name=".ui.week6.Week6Prac3Activity"
             android:exported="true" />
-
+        <activity
+            android:name=".ui.week10.Week10DynamicLayout"
+            android:exported="true" />
     </application>
 
 </manifest>
